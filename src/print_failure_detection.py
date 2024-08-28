@@ -11,7 +11,7 @@ cap.set(3, width)
 cap.set(4, height)
 
 # model
-model = YOLO("weights/best.pt")
+model = YOLO("/home/om/Documents/3d_print_failure_detection_cv/weights/best.pt")
 
 # object classes
 classNames = ["fault", "success"]
