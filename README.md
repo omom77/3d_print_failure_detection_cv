@@ -45,7 +45,7 @@ This project features a Computer Vision model based on YOLOV8, designed to detec
 
 ### Run the `print_failure_detection.py`
 
-Execute the following command to run the detection script:
+Execute the following command to run the detection script :
 
 ```bash
 python print_failure_detection.py
